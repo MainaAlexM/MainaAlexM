@@ -18,23 +18,23 @@
 ## ```Contact Me:``` <a style="text-align:center;" href="mailto:arxmaina@gmail.com"><img src="https://img.shields.io/badge/gmail-d64528?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
 
   
- [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathenge-Alex&theme=dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   
+ [![Alex M GitHub stats](https://github-readme-stats.vercel.app/api?username=MainaAlexM&theme=dark&show_icons=true&count_private=true)](https://github.com/Mathenge-Alex/github-readme-stats)   
   
 #### ```Top Languages```
 
 
-  <a href="https://github.com/Mathenge-Alex/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathenge-Alex&theme=dark" />
+  <a href="https://github.com/MainaAlexM/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainaAlexM&theme=dark" />
 </a>
 
 
 #### ```Coding Consistency:```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathenge-Alex&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MainaAlexM&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
 
 ### ```Achievements:```
 
 <span align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Mathenge-Alex&margin-w=20&margin-h=15" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=MainaAlexM&margin-w=20&margin-h=15" />
 
 </span>
